@@ -1,2 +1,2 @@
-# c--naming-conventions
+# c-sharp-naming-conventions
 C# Naming Conventions
